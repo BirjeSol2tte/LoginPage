@@ -3,7 +3,7 @@
 A modern login and registration page with smooth animated transitions, built using HTML, CSS, and JavaScript.
 
 🎮 View it here:
-👉 LoginPage on GitHub Pages
+👉 [LoginPage on GitHub Pages](https://birjesol2tte.github.io/LoginPage/)
 
 🧩 Page Overview
 
